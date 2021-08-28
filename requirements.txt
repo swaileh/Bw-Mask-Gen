@@ -20,3 +20,14 @@ pytesseract==0.3.6
 argparse==1.4.0
 pythreshold==0.3.1
 python-math==0.0.1
+
+Flask==0.12
+Werkzeug==0.16.1
+boto3==1.14.40
+torch
+torchvision==0.7.0
+numpy==1.15.4
+sklearn==0.0
+scipy==1.2.1
+scikit-image==0.14.2
+pandas==0.24.2
