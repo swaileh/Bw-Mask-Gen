@@ -15,7 +15,7 @@ pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 scikit-image==0.17.2
 scikit-learn==0.24.2
-opencv-python==4.5.3.56
+opencv-python-headless==4.5.3.56
 pytesseract==0.3.6
 argparse==1.4.0
 pythreshold==0.3.1
